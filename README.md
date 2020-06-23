@@ -1,2 +1,2 @@
 # Python
-This repository contains simple application on python
+This repository contains simple applications on python
